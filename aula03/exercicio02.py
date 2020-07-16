@@ -35,3 +35,4 @@ while conseguiu == False:
                 # print("a")
                 # break
         
+driver.quit()
